@@ -109,7 +109,7 @@ deploy:
   type: git
   repo: https://github.com/PeiMouRen/peimouren.github.io.git
   branch: master
-  token: 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
+  token: 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
   
 # 搜索  
 search:
